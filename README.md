@@ -1,5 +1,7 @@
 # Youtube Clone
 
+#### Youtube Clone Made using react-redux for udemy complete reactJS course.
+
 ### Getting Started
 
 ```
